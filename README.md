@@ -1,2 +1,2 @@
 # Kush Certificates
-This file Contaiins all the Certificates that i have achieved
+This repository Contaiins all the Certificates that I have achieved
